@@ -7,7 +7,7 @@ This project generates a SOAP client stub from the Scene7 IPS API WSDL using Apa
 
 ## Documentation
 
-Supported WSDLs
+Supported WSDLs can be found [here](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-wsdl-versions#concept-aff3e13f3b59486882260b5f2e962226)
 
 | API Release Version | WSDL File | Namespace URI |
 |---------------------|-----------|---------------|
@@ -19,6 +19,8 @@ Supported WSDLs
 | 4.2 | IpsApi-2008-09-10.wsdl | http://www.scene7.com/IpsApi/xsd/2008-09-10 |
 | 4.0 | IpsApi-2008-01-15.wsdl | http://www.scene7.com/IpsApi/xsd/2008-01-15 |
 | Pre-4.0 | IpsApi.wsdl | http://www.scene7.com/IpsApi/xsd |
+
+API Documentation can be found [here](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/operation-methods/operation-parameters/c-methods)
 
 ## Prerequisites
 
